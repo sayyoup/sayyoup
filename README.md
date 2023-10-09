@@ -1,7 +1,9 @@
 <div align="center">
   
 ## Introduction 😀
-
+<p>
+  안녕하십니까 만능 개발자가 되고 싶은 세엽입니다.
+</p>
 
 ## Tec Stacks 💻
 
